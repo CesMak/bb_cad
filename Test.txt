@@ -5,5 +5,9 @@ meins
 
 blub
 
+<<<<<<< HEAD
 
 kkkkkk
+=======
+hola
+>>>>>>> 9192caf59483d26965a03c4f0ebc2f371ce56873
