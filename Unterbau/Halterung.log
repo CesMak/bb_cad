@@ -1,5 +1,5 @@
 Solid Edge in STL konvertieren
-Datum: Sonntag,November 12,2017 07:43
+Datum: Sonntag,November 12,2017 07:45
 Quelldatei:D:\BallBot\Konstruktion\bb_cad\Unterbau\Halterung.par
 Ausgabedatei: D:\BallBot\Konstruktion\bb_cad\Unterbau\Halterung.stl
 Ausgangssystem: SOLID EDGE
@@ -18,7 +18,7 @@ STL-Exportoptionen:
 Ausgabedateiformat:BINARY
 Angezeigte Teile exportieren: Aus
 Strukturoption: Monolithic
-Einheiten exportieren:Inch
+Einheiten exportieren:Millimeter
 Toleranzwert exportieren:0,050000
 Toleranztyp exportieren:Custom
 Flächenplanwinkelwert exportieren:0,523599
