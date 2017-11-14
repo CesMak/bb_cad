@@ -1,5 +1,5 @@
 Solid Edge in STL konvertieren
-Datum: Montag,November 13,2017 06:48
+Datum: Dienstag,November 14,2017 12:08
 Quelldatei:D:\BallBot\Konstruktion\bb_cad\Unterbau\Mitnehmer_oben.par
 Ausgabedatei: D:\BallBot\Konstruktion\bb_cad\Unterbau\Mitnehmer_oben.stl
 Ausgangssystem: SOLID EDGE
@@ -28,4 +28,4 @@ Phase 1 von 2 - Abrufen der Parasolid-Informationen...
 Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
 Anzahl erstellter STL-Dateien : 1
 Konvertierungsvorgang ist abgeschlossen
-Zum Konvertieren benötigte Zeit:00 : 00 : 00
+Zum Konvertieren benötigte Zeit:00 : 00 : 01
