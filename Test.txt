@@ -1,8 +1,0 @@
-Hallo Markus, Schreibe mal eine weitere Zeile in die Datei und push diese datei dann
-
-
-meins	
-
-blub
-
-hola
