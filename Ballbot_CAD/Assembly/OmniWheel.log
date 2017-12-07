@@ -1,5 +1,5 @@
 Solid Edge in STL konvertieren
-Datum: Donnerstag,Dezember 07,2017 09:50
+Datum: Donnerstag,Dezember 07,2017 09:52
 Quelldatei:C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Assembly\OmniWheel.asm
 Ausgabedatei: C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Assembly\OmniWheel.stl
 Ausgangssystem: SOLID EDGE
@@ -28,4 +28,4 @@ Phase 1 von 2 - Abrufen der Parasolid-Informationen...
 Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
 Anzahl erstellter STL-Dateien : 1
 Konvertierungsvorgang ist abgeschlossen
-Zum Konvertieren benötigte Zeit:00 : 00 : 00
+Zum Konvertieren benötigte Zeit:00 : 00 : 01
