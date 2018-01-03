@@ -1,7 +1,7 @@
 Solid Edge in STL konvertieren
-Datum: Donnerstag,Dezember 07,2017 10:38
-Quelldatei:C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Assembly\Speichen_Orientation_Test_2.asm
-Ausgabedatei: C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Assembly\Speichen_Orientation_Test_2.stl
+Datum: Dienstag,Oktober 31,2017 01:27
+Quelldatei:C:\Users\Michael\Desktop\BallBot_New\NewAssemblies\Basis.asm
+Ausgabedatei: C:\Users\Michael\Desktop\BallBot_New\NewAssemblies\BallBot_Basis.stl
 Ausgangssystem: SOLID EDGE
 
 Hardware:
@@ -18,7 +18,7 @@ STL-Exportoptionen:
 Ausgabedateiformat:BINARY
 Angezeigte Teile exportieren: Aus
 Strukturoption: Monolithic
-Einheiten exportieren:Millimeter
+Einheiten exportieren:Inch
 Toleranzwert exportieren:0,050000
 Toleranztyp exportieren:Custom
 Flächenplanwinkelwert exportieren:0,523599
@@ -28,4 +28,4 @@ Phase 1 von 2 - Abrufen der Parasolid-Informationen...
 Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
 Anzahl erstellter STL-Dateien : 1
 Konvertierungsvorgang ist abgeschlossen
-Zum Konvertieren benötigte Zeit:00 : 00 : 00
+Zum Konvertieren benötigte Zeit:00 : 00 : 13
