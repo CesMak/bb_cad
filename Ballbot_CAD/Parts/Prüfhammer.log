@@ -1,0 +1,31 @@
+Solid Edge in STL konvertieren
+Datum: Mittwoch,Januar 10,2018 10:24
+Quelldatei:C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Parts\Mitnehmer_Wheel2_V1.0.par
+Ausgabedatei: C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Parts\Prüfhammer.stl
+Ausgangssystem: SOLID EDGE
+
+Hardware:
+Prozessor: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+Betriebssystem: Windows 8
+Speicher: 7,88 GB
+
+Software-Informationen:
+Parasolid-Version: 30.0.167
+Bodyshop-Version: 30.0.81
+Solid Edge-Version: 110.00.00.107 x64
+
+STL-Exportoptionen:
+Ausgabedateiformat:BINARY
+Angezeigte Teile exportieren: Aus
+Strukturoption: Monolithic
+Einheiten exportieren:Millimeter
+Toleranzwert exportieren:0,050000
+Toleranztyp exportieren:Custom
+Flächenplanwinkelwert exportieren:0,523599
+
+Konvertierungsfortschritt:
+Phase 1 von 2 - Abrufen der Parasolid-Informationen...
+Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
+Anzahl erstellter STL-Dateien : 1
+Konvertierungsvorgang ist abgeschlossen
+Zum Konvertieren benötigte Zeit:00 : 00 : 00
