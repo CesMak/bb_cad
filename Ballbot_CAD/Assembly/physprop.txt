@@ -1,0 +1,44 @@
+﻿Physikalische Eigenschaften für ausgewählte Teile
+
+	 Volumen= 0,005 dm^3
+	 Masse= 0,000 kg
+	 Benutzerdefinierte Menge (Masse)= 0,000 kg
+
+In Bezug auf das Global Koordinatensystem
+
+	 Massenschwerpunkt:
+		 X= -25,01 mm
+		 Y= 0,04 mm
+		 Z= -33,85 mm
+
+	 Volumenschwerpunkt:
+		 X= -25,01 mm
+		 Y= 0,04 mm
+		 Z= -33,85 mm
+
+	 Massenträgheitsmomente:
+		 Ixx= 0,000 kg*dm^2
+		 Iyy= 0,000 kg*dm^2
+		 Izz= 0,000 kg*dm^2
+
+		 Ixy= 0,000 kg*dm^2
+		 Ixz= 0,000 kg*dm^2
+		 Iyz= 0,000 kg*dm^2
+
+	 Ausrichtung der Hauptachsen:
+		 X= 1,000 	-0,004 	-0,004 	
+		 Y= 0,006 	0,707 	0,707 	
+		 Z= 0,000 	-0,707 	0,707 	
+
+Im Verhältnis zu den Hauptachsen
+
+	 Hauptträgheitsmomente:
+		 I1= 0,000 kg*dm^2
+		 I2= 0,000 kg*dm^2
+		 I3= 0,000 kg*dm^2
+
+	 Trägheitsradien:
+		 Rx= 8,78 mm
+		 Ry= 8,54 mm
+		 Rz= 8,47 mm
+
