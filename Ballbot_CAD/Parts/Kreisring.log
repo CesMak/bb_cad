@@ -1,13 +1,13 @@
 Solid Edge in STL konvertieren
-Datum: Montag,November 13,2017 02:26
-Quelldatei:D:\BallBot\Konstruktion\bb_cad\Unterbau\Kreisring.par
-Ausgabedatei: D:\BallBot\Konstruktion\bb_cad\Unterbau\Kreisring.stl
+Datum: Dienstag,Januar 23,2018 04:29
+Quelldatei:C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Parts\Kreisring.par
+Ausgabedatei: C:\Users\Michael\Desktop\Konstruktion_Ballbot\bb_cad\Ballbot_CAD\Parts\Kreisring.stl
 Ausgangssystem: SOLID EDGE
 
 Hardware:
-Prozessor: Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz
-Betriebssystem: Windows 7 Home Premium Edition Service Pack 1
-Speicher: 3,9 GB
+Prozessor: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+Betriebssystem: Windows 8
+Speicher: 7,88 GB
 
 Software-Informationen:
 Parasolid-Version: 30.0.167
@@ -28,4 +28,4 @@ Phase 1 von 2 - Abrufen der Parasolid-Informationen...
 Phase 2 von 2 - Konvertieren von Parasolid in fremde Datentypen...
 Anzahl erstellter STL-Dateien : 1
 Konvertierungsvorgang ist abgeschlossen
-Zum Konvertieren benötigte Zeit:00 : 00 : 00
+Zum Konvertieren benötigte Zeit:00 : 00 : 01
